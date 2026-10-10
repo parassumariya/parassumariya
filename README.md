@@ -1,177 +1,318 @@
+<!-- =================================================================
+     PARAS SUMARIA - GITHUB PROFILE README
+     Finance Enthusiast | Trader | Developer | Entrepreneur
+================================================================== -->
+
 <div align="center">
 
-  <!-- Dynamic Gold Luxury Hero Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d97706,50:f59e0b,100:111827&height=220&section=header&text=PARAS%20SUMARIA&fontSize=52&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20SAAS%20BUILDER%20%7C%20ENTREPRENEUR&descAlignY=58&descAlign=50" width="100%" alt="Paras Sumaria Banner"/>
+  <!-- Header Banner -->
+  <a href="https://github.com/parassumaria">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,30:0f172a,70:002b4e,100:0052cc&height=260&section=header&text=Hi,%20I'm%20Paras%20Sumaria&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Finance%20Enthusiast%20%7C%20Trader%20%7C%20Developer%20%7C%20Entrepreneur&descAlignY=58&descSize=18&descColor=00d2ff&stroke=00d2ff&strokeWidth=1" width="100%" alt="Paras Sumaria Banner" />
+  </a>
 
-  <br/>
-
-  <!-- Profile Portrait with Modern Ring -->
-  <a href="https://github.com/parassumariya">
-    <img src="https://raw.githubusercontent.com/parassumariya/parassumariya/main/assets/avatar.jpg" onerror="this.src='https://avatars.githubusercontent.com/parassumariya'" width="130" height="130" style="border-radius: 50%; border: 3px solid #f59e0b; box-shadow: 0 8px 24px rgba(245, 158, 11, 0.35);" alt="Paras Sumaria"/>
+  <!-- Typing Dynamic Subtitle -->
+  <a href="https://github.com/parassumaria">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=%3E+developer+%E2%80%A2+trader+%E2%80%A2+builder+%E2%80%A2+entrepreneur_;Building+digital+products+%E2%80%A2+Exploring+financial+markets;Creating+solutions+%E2%80%A2+Learning+%26+growing+every+day;Turning+ideas+into+real+products%2C+one+commit+at+a+time." alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <h3><strong>Building Ideas into Scalable Products.</strong></h3>
-  <p><strong>TECHNOLOGY &bull; FINANCE &bull; INNOVATION &bull; ENTREPRENEURSHIP</strong></p>
-
-  <!-- Branded Quick Link Badges -->
-  <p>
-    <a href="https://github.com/parassumariya" target="_blank">
-      <img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-    </a>
-    <a href="https://linkedin.com/in/parassumariya" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-F59E0B?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Connect"/>
-    </a>
-    <a href="https://x.com/parassumariya" target="_blank">
-      <img src="https://img.shields.io/badge/TWITTER%20%2F%20X-FOLLOW-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X"/>
-    </a>
-  </p>
-
-  <!-- Live Typing Subtitle -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F59E0B&center=true&vCenter=true&width=550&lines=Software+Developer+%26+SaaS+Builder;Fintech+%26+Quantitative+Analytics;MBA+in+Finance+%7C+CA+Inter;Turning+Visionary+Ideas+Into+Code" alt="Typing SVG" />
+  <!-- Quick Metrics Row -->
+  <a href="https://github.com/parassumaria?tab=repositories">
+    <img src="https://img.shields.io/badge/50%2B-Repositories-0b0f19?style=for-the-badge&logo=github&logoColor=00d2ff&labelColor=161b22" alt="50+ Repositories" />
   </a>
-
-  <!-- Profile Visitor Counter -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=parassumariya&label=PROFILE+VIEWS&style=flat-square&color=f59e0b" alt="Profile Views"/>
-  </p>
+  &nbsp;
+  <a href="#-featured-projects">
+    <img src="https://img.shields.io/badge/20%2B-Projects-0b0f19?style=for-the-badge&logo=blueprint&logoColor=8b5cf6&labelColor=161b22" alt="20+ Projects" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/3%2B_Years-Learning-0b0f19?style=for-the-badge&logo=riseup&logoColor=10b981&labelColor=161b22" alt="3+ Years Learning" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/%E2%88%9E-Ideas-0b0f19?style=for-the-badge&logo=lightbulb&logoColor=f59e0b&labelColor=161b22" alt="Infinite Ideas" />
 
 </div>
 
----
+<br/>
 
-## 📌 About Me
-
-I'm **Paras Sumaria**, an aspiring entrepreneur bridging the intersection of **software engineering, modern SaaS architecture, financial markets, and quantitative analytics**.
-
-- 💡 **Building ideas** into useful, high-conversion digital products & micro-SaaS
-- 🚀 **Exploring SaaS, AI, and full-stack web technologies** to automate real-world workflows
-- 📈 **Deeply passionate about financial markets**, investment analytics, and fintech models
-- 🎓 **Academic background:** Pursuing **MBA in Finance** & **CA Inter** (Chartered Accountancy Intermediate)
-- 🤝 **Open to collaboration**, tech-finance advisory, and innovative ventures
-
----
-
-## 💼 Business & Innovation Focus
+<!-- =================================================================
+     PROFILE & SIDEBAR + CODE WINDOW
+================================================================== -->
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 SaaS & Software</h3>
-      <ul>
-        <li><strong>Architecture:</strong> End-to-end full-stack SaaS engineering from concept to deployment.</li>
-        <li><strong>Product Thinking:</strong> User experience, conversion funnels, subscription monetization, and product-market fit.</li>
-        <li><strong>Automation:</strong> Integrating generative AI, background cron workflows, and webhook pipelines.</li>
-      </ul>
+    <td width="38%" valign="top" align="center">
+      <br/>
+      <img src="https://github.com/parassumaria.png" width="130" height="130" style="border-radius: 50%; border: 3px solid #00d2ff;" alt="Paras Sumaria" />
+      <br/><br/>
+      <h3><b>Paras Sumaria</b></h3>
+      <code>parassumaria</code> &nbsp;•&nbsp; <code>he/him</code>
+      <br/><br/>
+      <p align="center">
+        <b>Finance Enthusiast | Trader | Developer | Entrepreneur</b>
+      </p>
+      <p align="center" style="font-size: 13px; color: #8b949e;">
+        <i>Passionate about building digital products, exploring financial markets, and creating solutions that make life easier. Always learning, always building.</i>
+      </p>
+
+      <hr/>
+
+      <!-- Location & Availability Badges -->
+      <img src="https://img.shields.io/badge/Location-Ahmedabad%2C%20India-0b0f19?style=flat-square&logo=google-maps&logoColor=EA4335&labelColor=161b22" alt="Ahmedabad, India" />
+      <br/>
+      <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-052e16?style=flat-square&logo=codeforces&logoColor=22c55e&labelColor=14532d" alt="Open to Opportunities" />
+
+      <br/><br/>
+
+      <!-- Touchable Social Buttons (Dark UI matching design) -->
+      <h4><b>Connect Directly</b></h4>
+      
+      <a href="https://instagram.com/parassumariya" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Instagram-%40parassumariya%20%E2%86%97-131722?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0d1117" alt="Instagram @parassumariya" width="220" />
+      </a>
+      <br/>
+      <a href="https://www.snapchat.com/add/parassumariya" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Snapchat-parassumariya%20%E2%86%97-131722?style=for-the-badge&logo=snapchat&logoColor=FFFC00&labelColor=0d1117" alt="Snapchat parassumariya" width="220" />
+      </a>
+      <br/>
+      <a href="https://www.linkedin.com/in/parassumariya/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/LinkedIn-parassumariya%20%E2%86%97-131722?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117" alt="LinkedIn parassumariya" width="220" />
+      </a>
+      <br/>
+      <a href="mailto:parassumaria@yahoo.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Email-parassumaria%40yahoo.com%20%E2%86%97-131722?style=for-the-badge&logo=yahoo&logoColor=7B1FA2&labelColor=0d1117" alt="Email parassumaria@yahoo.com" width="220" />
+      </a>
+
+      <br/><br/>
+
+      <!-- Quote -->
+      <blockquote>
+        <p align="center">
+          <i>"Turning ideas into real products, one commit at a time."</i><br/>
+          — <b>Paras Sumaria</b>
+        </p>
+      </blockquote>
     </td>
-    <td width="50%" valign="top">
-      <h3>📊 Fintech & Analytics</h3>
+
+    <td width="62%" valign="top">
+      
+      <h3>⚡ About & Currently Working On</h3>
       <ul>
-        <li><strong>Market Intelligence:</strong> Equity research, portfolio performance tracking, and risk metrics.</li>
-        <li><strong>Data-Driven Modeling:</strong> Financial statement analysis, cash-flow projection, and quantitative models.</li>
-        <li><strong>Computational Finance:</strong> Python-based financial data mining and algorithmic analytics.</li>
+        <li>🟡 <b>Building SaaS products</b> — Scalable micro-SaaS and productivity web applications</li>
+        <li>🔵 <b>Exploring AI & Automation</b> — AI workflows, agents, and automation pipelines</li>
+        <li>📈 <b>Trading & Market Analysis Tools</b> — Algorithmic strategies, indicators, and financial models</li>
+        <li>💳 <b>Personal Finance & Investment Apps</b> — Real-time portfolio tracking & market intelligence</li>
       </ul>
+
+      <br/>
+
+      <pre><code class="language-javascript">// paras.config.js 🚀
+const paras = {
+  name: "Paras Sumaria",
+  pronouns: "he/him",
+  location: "Ahmedabad, India",
+  roles: [
+    "Finance Enthusiast",
+    "Algorithmic Trader",
+    "Full-Stack Developer",
+    "Entrepreneur"
+  ],
+  passion: ["Technology", "Finance", "Trading", "Building"],
+  goal: "Create real impact & scale digital solutions",
+  status: "Always Learning & Building",
+  openToOpportunities: true
+};</code></pre>
+
+      <br/>
+
+      <h3>🛠️ Tech Stack & Tools</h3>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+      </p>
+
+      <br/>
+
+      <h3>🏆 GitHub Achievements</h3>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Pull_Shark-x4-0b0f19?style=flat-square&logo=github&logoColor=00d2ff&labelColor=161b22" alt="Pull Shark x4" />
+        <img src="https://img.shields.io/badge/Heart_On_Your_Sleeve-x2-0b0f19?style=flat-square&logo=githubsponsors&logoColor=ec4899&labelColor=161b22" alt="Heart On Your Sleeve x2" />
+        <img src="https://img.shields.io/badge/Galaxy_Brain-x2-0b0f19?style=flat-square&logo=nasa&logoColor=a855f7&labelColor=161b22" alt="Galaxy Brain x2" />
+        <img src="https://img.shields.io/badge/YOLO-x2-0b0f19?style=flat-square&logo=target&logoColor=eab308&labelColor=161b22" alt="YOLO x2" />
+      </p>
+
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-## ⚡ Tech Stack & Tooling
+<!-- =================================================================
+     FEATURED PROJECTS
+================================================================== -->
 
-### 💻 Programming & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-</p>
+## 🚀 Featured Projects
 
-### 🗄️ Databases & Cloud Infrastructure
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-</p>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3>📊 Portfolio Tracker</h3>
+        <img src="https://img.shields.io/badge/Status-Public-00d2ff?style=flat-square&labelColor=0b0f19" alt="Public" />
+      </div>
+      <p align="center">
+        Track and analyze your investment portfolio with real-time insights and automated analytics.
+      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+      </div>
+      <br/>
+      <div align="center">
+        ⭐ <code>120</code> &nbsp;&nbsp;|&nbsp;&nbsp; 🍴 <code>35</code>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3>📦 SaaS Starter</h3>
+        <img src="https://img.shields.io/badge/Status-Public-00d2ff?style=flat-square&labelColor=0b0f19" alt="Public" />
+      </div>
+      <p align="center">
+        Modern boilerplate for SaaS applications with authentication, payments, and analytics.
+      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+      </div>
+      <br/>
+      <div align="center">
+        ⭐ <code>98</code> &nbsp;&nbsp;|&nbsp;&nbsp; 🍴 <code>22</code>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3>📈 Trading Tools</h3>
+        <img src="https://img.shields.io/badge/Status-Public-00d2ff?style=flat-square&labelColor=0b0f19" alt="Public" />
+      </div>
+      <p align="center">
+        Collection of quantitative trading indicators and analysis tools for financial markets.
+      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/TradingView-2962FF?style=flat&logo=tradingview&logoColor=white" />
+        <img src="https://img.shields.io/badge/Finance-00C853?style=flat" />
+      </div>
+      <br/>
+      <div align="center">
+        ⭐ <code>76</code> &nbsp;&nbsp;|&nbsp;&nbsp; 🍴 <code>18</code>
+      </div>
+    </td>
+  </tr>
+</table>
 
-### 📈 Finance & Analytics Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Financial_Modeling-F59E0B?style=for-the-badge&logo=cashapp&logoColor=black" alt="Financial Modeling"/>
-  <img src="https://img.shields.io/badge/MBA_Finance-1E293B?style=for-the-badge&logo=curseforge&logoColor=F59E0B" alt="MBA Finance"/>
-  <img src="https://img.shields.io/badge/CA_Inter-0F172A?style=for-the-badge&logo=buffer&logoColor=F59E0B" alt="CA Inter"/>
-</p>
+<br/>
 
----
-
-## 🛠️ Featured Projects & Ventures
-
-| Venture / Project | Domain | Tech Stack | Highlights |
-| :--- | :--- | :--- | :--- |
-| **SaaS Analytics Suite** | SaaS & Productivity | `Next.js` `TypeScript` `Supabase` `Tailwind` | Real-time subscription analytics, churn prediction, and revenue dashboards. |
-| **Fintech Market Screener** | Financial Analytics | `Python` `FastAPI` `PostgreSQL` `Pandas` | Automated financial ratio screener and valuation multiples computation. |
-| **Micro-Workflow Automation** | Developer Tools | `Node.js` `Docker` `GitHub Actions` | Lightweight webhook engine for triggered notifications and data pipelines. |
-
----
+<!-- =================================================================
+     GITHUB STATS & ACTIVITY
+================================================================== -->
 
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <a href="https://github.com/parassumariya">
-    <img src="https://github-profile-trophy.vercel.app/?username=parassumariya&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-  </a>
-</div>
 
-<br/>
+  <!-- Snake Contribution Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parassumaria/parassumaria/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parassumaria/parassumaria/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/parassumaria/parassumaria/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parassumariya&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="Paras Sumaria GitHub Stats" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parassumariya&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="175"/>
-  <img src="https://streak-stats.demolab.com?user=parassumariya&theme=radical&hide_border=false" alt="GitHub Streak" height="175"/>
-</p>
+  <br/><br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parassumariya&theme=radical" alt="Activity Graph" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote"/>
-</div>
-
----
-
-## 🤝 Let's Connect & Build
-
-<div align="center">
-  <p>Whether you want to discuss a <strong>SaaS product, Fintech opportunity, or strategic collaboration</strong>, feel free to reach out!</p>
-
-  <a href="https://linkedin.com/in/parassumariya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <!-- Stats Cards -->
+  <a href="https://github.com/parassumaria">
+    <img src="https://github-readme-stats.vercel.app/api?username=parassumaria&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8&bg_color=0b0f19&border_color=00d2ff&title_color=00d2ff&icon_color=00d2ff&text_color=94a3b8" alt="Paras Sumaria's GitHub Stats" />
   </a>
   &nbsp;
-  <a href="https://github.com/parassumariya" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/parassumaria">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parassumaria&layout=compact&theme=tokyonight&hide_border=false&border_radius=8&bg_color=0b0f19&border_color=00d2ff&title_color=00d2ff&text_color=94a3b8" alt="Top Languages" />
   </a>
-  &nbsp;
-  <a href="mailto:parassumariya@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+
+  <br/><br/>
+
+  <!-- Streak Stats -->
+  <a href="https://github.com/parassumaria">
+    <img src="https://streak-stats.demolab.com/?user=parassumaria&theme=tokyonight&hide_border=false&border_radius=8&background=0b0f19&border=00d2ff&stroke=00d2ff&ring=00d2ff&fire=00d2ff&currStreakLabel=00d2ff" alt="GitHub Streak" />
   </a>
+
+</div>
+
+<br/>
+
+<!-- =================================================================
+     TOUCHABLE BUTTONS / LET'S CONNECT (PRIMARY INTERACTIVE SECTION)
+================================================================== -->
+
+## 🤝 Let's Connect
+
+> *"Ideas • Markets • Technology • Opportunities ↗"*
+
+Tap any of the buttons below to open my profile or reach out directly:
+
+<div align="center">
+
+  <!-- INSTAGRAM BUTTON -->
+  <a href="https://instagram.com/parassumariya" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-%40parassumariya-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="42" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- LINKEDIN BUTTON -->
+  <a href="https://www.linkedin.com/in/parassumariya/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-parassumariya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="42" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- SNAPCHAT BUTTON -->
+  <a href="https://www.snapchat.com/add/parassumariya" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Snapchat-parassumariya-FFFC00?style=for-the-badge&logo=snapchat&logoColor=000000" alt="Snapchat" height="42" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- YAHOO MAIL / EMAIL BUTTON -->
+  <a href="mailto:parassumaria@yahoo.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Yahoo_Mail-parassumaria%40yahoo.com-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" alt="Email" height="42" />
+  </a>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <sub>Crafted with passion for <strong>Paras Sumaria</strong> &bull; Building Ideas into Scalable Products.</sub>
+
+| Platform | Handle / Address | Touchable Link Button |
+| :--- | :--- | :--- |
+| **Instagram** | `@parassumariya` | <a href="https://instagram.com/parassumariya" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Visit_Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Visit Instagram" /></a> |
+| **LinkedIn** | `parassumariya` | <a href="https://www.linkedin.com/in/parassumariya/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a> |
+| **Snapchat** | `parassumariya` | <a href="https://www.snapchat.com/add/parassumariya" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Add_on_Snapchat-FFFC00?style=flat-square&logo=snapchat&logoColor=black" alt="Add on Snapchat" /></a> |
+| **Email** | `parassumaria@yahoo.com` | <a href="mailto:parassumaria@yahoo.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Send_Email-6001D2?style=flat-square&logo=yahoo&logoColor=white" alt="Send Email" /></a> |
+
+</div>
+
+<br/>
+
+<!-- =================================================================
+     FOOTER
+================================================================== -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052cc,30:002b4e,70:0f172a,100:0b0f19&height=120&section=footer&text=Discipline%20Today%2C%20Opportunities%20Tomorrow.&fontSize=18&fontColor=00d2ff&fontAlignY=70" width="100%" alt="Footer Banner" />
 </div>
