@@ -1,5 +1,7 @@
 <div align="center">
 
+<!-- Futuristic GitHub profile design for parassumariya -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,35:0F172A,70:0EA5E9,100:14B8A6&text=PARAS%20SUMARIYA&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&fontSize=58&desc=Developer%20%7C%20Trader%20%7C%20Builder%20%7C%20Automation%20Explorer&descAlign=50&descAlignY=61&descSize=17&animation=twinkling" alt="Paras Sumariya animated futuristic banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=25&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=900&height=48&lines=BUILDING+USEFUL+DIGITAL+PRODUCTS;DESIGNING+TOOLS+FOR+FINANCE+AND+MARKETS;AUTOMATING+BORING+WORKFLOWS;LEARNING+FAST+AND+SHIPPING+FASTER" alt="Animated futuristic typing line" />
