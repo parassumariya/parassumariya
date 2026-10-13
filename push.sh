@@ -1,16 +1,16 @@
 #!/bin/bash
 # ================================================================
-# PARAS SUMARIA — GitHub Profile Setup Script
+# PARAS SUMARIYA — GitHub Profile Setup Script
 # Run this once to push everything to GitHub
 # ================================================================
 
 set -e
 
-REPO_URL="https://github.com/parassumaria/parassumaria.git"
+REPO_URL="https://github.com/parassumariya/parassumariya.git"
 BRANCH="main"
 
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-echo "  Paras Sumaria — GitHub Profile Publisher"
+echo "  Paras Sumariya — GitHub Profile Publisher"
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 
 # Init git if not already
@@ -27,13 +27,10 @@ fi
 # Stage all files
 echo "→ Staging files..."
 git add README.md
-git add assets/banner.svg
-git add assets/banner.jpg
-git add .github/workflows/snake.yml
 
 # Commit
 echo "→ Committing..."
-git commit -m "feat: animated GitHub profile README with banner, stats & socials" \
+git commit -m "feat: refresh GitHub profile README" \
   --allow-empty
 
 # Push
@@ -42,9 +39,6 @@ git branch -M "$BRANCH"
 git push -u origin "$BRANCH"
 
 echo ""
-echo "✅ Done! Visit: https://github.com/parassumaria"
+echo "✅ Done! Visit: https://github.com/parassumariya"
 echo ""
-echo "⏳ The snake animation will appear automatically"
-echo "   after the GitHub Action runs (within ~2 minutes)."
-echo "   Trigger it manually: GitHub → Actions → Generate Snake → Run workflow"
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
